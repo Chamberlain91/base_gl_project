@@ -6,6 +6,7 @@ Git Instructions
 
 ```sh
 git clone git@github.com:Chamberlain91/base_gl_project.git
+cd base_gl_project
 git submodule init
 git submodule update
 ```
